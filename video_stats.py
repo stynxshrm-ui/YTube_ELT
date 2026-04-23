@@ -29,6 +29,6 @@ if __name__ == "__main__":
     if playlist_id:
         print(f"Playlist ID for channel '{CHANNEL_HANDLE}': {playlist_id}")
     else:
-        print("Failed to retrieve playlist ID.")
+        print("Failed to retrieve the playlist ID.")
 
     
