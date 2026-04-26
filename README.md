@@ -1,9 +1,3 @@
-Here is a thoughtful and clear README for the YTube_ELT project based on the repository structure and purpose.
-
----
-
-# YTube ELT
-
 ## Overview
 
 YTube ELT is a data pipeline project that extracts data from YouTube, loads it into a PostgreSQL database, and performs automated data quality checks. The pipeline is orchestrated using Apache Airflow and containerized with Docker for consistent deployment across environments.
